@@ -1,4 +1,4 @@
 # Make-Makefiles Assignment
 
 
-individual assignment
+Creating a makefile to better help our understanding of makefiles.
